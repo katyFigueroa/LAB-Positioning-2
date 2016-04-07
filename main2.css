@@ -1,0 +1,26 @@
+#grande{
+	height: 300px;
+	width: 300px;
+	background-color: blue;
+	top: 0;
+	left: 0;
+	position: absolute;
+
+}
+#mediano{
+	height: 150px;
+	width: 150px;
+	background-color: green;
+	position: relative;
+	top:66px;
+	left: 66px;
+
+}
+#pequeño{
+	height: 75px;
+	width: 75px;
+	background-color: black;
+	position:absolute;
+	top:0;
+	left: 0;
+}
